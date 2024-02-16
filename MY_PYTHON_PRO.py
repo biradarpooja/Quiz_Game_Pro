@@ -29,4 +29,4 @@ if answer.lower() == 'random access memory':
     print("Correct")
     score += 1
 else:
-    print('Wrong')
+    print('Wron')
